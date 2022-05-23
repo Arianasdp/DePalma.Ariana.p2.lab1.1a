@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1653324276 source:c:\programación1 copia\depalmaariana1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"trabajo.h"
+	"validaciones.h"
+	"menu.h"
+
+1653324831 c:\programación1 copia\depalmaariana1\notebook.h
+	"cliente.h"
+
+1653324276 c:\programación1 copia\depalmaariana1\trabajo.h
+	"notebook.h"
+
+1653325273 source:c:\programación1 copia\depalmaariana1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+	"validaciones.h"
+
+1653322142 source:c:\programación1 copia\depalmaariana1\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"validaciones.h"
+
+1653315799 c:\programación1 copia\depalmaariana1\validaciones.h
+	"trabajo.h"
+
+1653315789 source:c:\programación1 copia\depalmaariana1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"trabajo.h"
+	"notebook.h"
+
+1653313243 c:\programación1 copia\depalmaariana1\menu.h
+
+1653324276 source:c:\programación1 copia\depalmaariana1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1653315789 source:c:\programación1 copia\depalmaariana1\cliente.c
+	"cliente.h"
+
+1653325273 c:\programación1 copia\depalmaariana1\cliente.h
+
